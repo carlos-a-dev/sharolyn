@@ -48,16 +48,15 @@ useSeoMeta({
     >
       <MDC
         :value="page.content"
-        unwrap="p"
       />
-      <div class="flex flex-row justify-center items-center py-10 space-x-[-2rem]">
+      <!-- <div class="flex flex-row justify-center items-center py-10 space-x-[-2rem]">
         <PolaroidItem
           v-for="(image, index) in page.images"
           :key="index"
           :image="image"
           :index
         />
-      </div>
+      </div> -->
     </UPageSection>
   </UPage>
 </template>

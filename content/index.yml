@@ -63,6 +63,15 @@ testimonials:
       target: '_blank'
       avatar:
         src: 'https://media.licdn.com/dms/image/v2/D4D35AQGgggHVY337NQ/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1629222048130?e=1764522000&v=beta&t=UMOZ75GBFv1kR236beMNOCufEp82gx9xuakm2CbqFzA'
+certifications:
+  title: 'Courses and Certifications'
+  items:
+    - title: 'Adobe Certified Professional - Adobe Commerce Developer'
+      url: 'https://certification.adobe.com/credential/verify/f506e20a-2070-4284-aa80-ef71bc27fbac'
+      img: '/certifications/f506e20a-2070-4284-aa80-ef71bc27fbac_badge.png'
+    - title: 'Vue 360'
+      url: 'https://programwitherik.teachable.com'
+      img: '/certifications/vue360.png'
 blog:
   title: "Latest Articles"
   description: "Some of my recent thoughts"

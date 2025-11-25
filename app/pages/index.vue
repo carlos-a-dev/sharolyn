@@ -21,14 +21,9 @@ useSeoMeta({
 <template>
   <UPage v-if="page">
     <LandingHero :page />
-    <UPageSection
-      :ui="{
-        container: '!pt-0'
-      }"
-    >
-      <LandingAbout :page />
-      <LandingWorkExperience :page />
-    </UPageSection>
+    <LandingAbout :page />
+    <LandingWorkExperience :page />
+    <LandingCertifications :page />
     <LandingTestimonials :page />
   </UPage>
 </template>

@@ -58,6 +58,16 @@ export default defineContentConfig({
           }))
         }),
         testimonials: z.array(createTestimonialSchema()),
+        certifications: createBaseSchema().extend({
+          title: z.string(),
+          items: z.array(
+            z.object({
+              title: z.string(),
+              url: z.string(),
+              img: z.string()
+            })
+          )
+        }),
         blog: createBaseSchema(),
         faq: createBaseSchema().extend({
           categories: z.array(
