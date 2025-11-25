@@ -23,10 +23,11 @@ defineProps<{
         target="_blank"
         orientation="horizontal"
         variant="ghost"
+        reverse
       >
         <NuxtImg
           :src="cert.img"
-          class="max-w-xs mx-auto"
+          class="max-w-xs max-h-30 mx-auto"
         />
       </UPageCard>
     </UPageList>
