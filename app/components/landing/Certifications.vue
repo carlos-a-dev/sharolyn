@@ -22,6 +22,10 @@ defineProps<{
         :description="cert.description"
         orientation="horizontal"
         variant="ghost"
+        :ui="{
+          body: 'w-full',
+          footer: 'w-full text-right'
+        }"
         reverse
       >
         <template #description>

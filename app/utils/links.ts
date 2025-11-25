@@ -22,7 +22,7 @@ export const navLinks: NavigationMenuItem[] = [{
   to: '/about'
 }, {
   label: 'Resume',
-  icon: 'i-lucide-user',
+  icon: 'i-lucide-download',
   href: '/resume.pdf',
   target: '_blank'
 }]
