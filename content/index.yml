@@ -1,13 +1,10 @@
 seo:
-  title: "Carlos Alvarez - Software Engineer"
+  title: "Sahudy Soriano - Industrial Engineer"
   description: "Welcome to my portfolio! I'm Carlos Alvarez, a software engineer and mechatronics engineer based in Florida. I specialize in eCommerce and robotics."
-title: "Hey, I'm Carlos Software Engineer"
+title: "Hey, I'm Sahudy Industrial Engineer"
 description: "Results-driven Software Engineer with 10+ years of experience in web development, specializing in Magento and PHP. Proven ability to deliver high-quality eCommerce solutions, optimize workflows, and lead development projects."
 hero:
   links:
-    - label: "See this template on Github"
-      to: https://github.com/nuxt-ui-templates/portfolio
-      color: "neutral"
 about:
   title: "About Me"
   description: |
@@ -16,44 +13,55 @@ about:
 experience:
   title: Work Experience
   items:
-    - position: "Senior Software Engineer at"
-      date: "Nov 2021 - Jul 2025"
+    - position: "Operations Management Consultant / Project Lead at"
+      date: "Jan 2025 - Present"
       company:
-        name: "Material Bank"
-        logo: "i-simple-icons-magento"
-        url: "https://materialbank.com"
-        color: "#f5d544"
+        name: "AlvaSori LLC"
+        url: "https://alvasori.net"
+        color: "#D72638"
 
-    - position: "Magento Developer at"
-      date: "Apr 2021 - Nov 2021"
+    - position: "Personal Financial Consultant & Business Advisor at"
+      date: "2020 - Jan 2025"
       company:
-        name: "iRocker SUP"
-        logo: "i-simple-icons-magento"
-        url: "https://irockersup.com"
-        color: "#47a2c3"
+        name: "Self-Employed"
+        url: ""
+        color: "#444444"
 
-    - position: "Software Developer at"
-      date: "Jan 2019 - Mar 2021"
+    - position: "Property Manager (Airbnb) at"
+      date: "2021 - May 2025"
       company:
-        name: "Intuitive Reason"
-        logo: "i-simple-icons-symfony"
-        url: "https://www.intuitivereason.com"
-        color: "#f7dc3e"
+        name: "AlvaSoriRD"
+        url: ""
+        color: "#FF5A5F"
 
-    - position: "Web Development Manager at"
-      date: "Jul 2015 - Dec 2017"
+    - position: "Logistics & Customer Support Specialist at"
+      date: "Nov 2016 - Dec 2018"
       company:
-        name: "Grupo Peña Defilló"
-        logo: "i-simple-icons-php"
-        url: "https://penadefillo.com/"
-        color: "#4F5B93"
+        name: "Kimberly-Clark"
+        logo: "i-simple-icons-kimberlyclark"
+        url: "https://www.kimberly-clark.com"
+        color: "#0D3B66"
 
-    - position: "Embedded Firmware Developer at"
-      date: "Jan 2012 - Jul 2013"
+    - position: "International Logistics Customer Service Representative at"
+      date: "Sep 2019 - Nov 2019"
       company:
-        name: "ESC Group"
-        logo: "i-simple-icons-c"
-        color: "#A8B9CC"
+        name: "Zimmer Biomet"
+        url: "https://www.zimmerbiomet.com"
+        color: "#005EB8"
+
+    - position: "Project Management Assistant at"
+      date: "Nov 2014 - Mar 2016"
+      company:
+        name: "Ser Salud"
+        url: ""
+        color: "#2F9E44"
+
+    - position: "Maintenance & Production Coordinator at"
+      date: "Mar 2009 - Dec 2013"
+      company:
+        name: "The Coca-Cola Company"
+        url: "https://www.coca-colacompany.com"
+        color: "#E61C2B"
 testimonials:
   - quote: "I had the pleasure of working with Carlos at Intuitive Reason and highly recommend him for any Full Stack or Magento development role. He's an exceptionally skilled and reliable developer who thrives in fast-paced, high-demand environments. After more than twenty-five years collaborating with developers, I can confidently say Carlos stands out among one of the best and is someone I would gladly work with again."
     author:
