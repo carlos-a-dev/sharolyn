@@ -1,12 +1,12 @@
 export default defineAppConfig({
   global: {
     picture: {
-      dark: '/portrait.jpg',
-      light: '/portrait.jpg',
-      alt: 'Carlos Alvarez'
+      dark: '/portrait.png',
+      light: '/portrait.png',
+      alt: 'Sahudy Soriano'
     },
     meetingLink: 'https://cal.com/carlos-alvarez',
-    email: 'carlos.alexander.dev@gmail.com',
+    email: 'sahudysharolyn@gmail.com',
     available: true
   },
   ui: {
@@ -26,15 +26,15 @@ export default defineAppConfig({
     credits: `Built with Nuxt UI • © ${new Date().getFullYear()}`,
     colorMode: false,
     links: [{
-      'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/carlos-a-dev',
-      'target': '_blank',
-      'aria-label': 'Carlos on GitHub'
-    }, {
+      //   'icon': 'i-simple-icons-github',
+      //   'to': 'https://github.com/carlos-a-dev',
+      //   'target': '_blank',
+      //   'aria-label': 'Carlos on GitHub'
+      // }, {
       'icon': 'i-simple-icons-linkedin',
-      'to': 'https://www.linkedin.com/in/carlos-a-alvarez/',
+      'to': 'https://www.linkedin.com/in/sahudy-soriano-0ba66516a/',
       'target': '_blank',
-      'aria-label': 'Carlos on LnkedIn'
+      'aria-label': 'Sahudy on LnkedIn'
     }]
   }
 })
