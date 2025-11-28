@@ -5,7 +5,7 @@ export default defineAppConfig({
       light: '/portrait.png',
       alt: 'Sahudy Soriano'
     },
-    meetingLink: 'https://cal.com/carlos-alvarez',
+    meetingLink: 'https://calendly.com/sahudysharolyn/coaching-financiero-personalizado-transforma-tu-vida',
     email: 'sahudysharolyn@gmail.com',
     available: true
   },

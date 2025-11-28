@@ -1,15 +1,15 @@
 seo:
   title: "Sahudy Soriano - Industrial Engineer"
-  description: "Welcome to my portfolio! I'm Carlos Alvarez, a software engineer and mechatronics engineer based in Florida. I specialize in eCommerce and robotics."
+  description: "Welcome to my portfolio! I'm Sahudy Sharolyn Soriano, an Industrial Engineer based in Florida with over a decade of experience optimizing operations across manufacturing, logistics, and consulting. I specialize in Agile project management, supply chain optimization, and digital transformation."
 title: "Hey, I'm Sahudy Industrial Engineer"
-description: "Results-driven Software Engineer with 10+ years of experience in web development, specializing in Magento and PHP. Proven ability to deliver high-quality eCommerce solutions, optimize workflows, and lead development projects."
+description: "Welcome! I’m Sahudy Soriano, an Industrial Engineer based in Florida with over 10 years of experience driving operational excellence and digital transformation. I specialize in Agile project management, supply chain optimization, and business process improvement, helping organizations streamline workflows, increase profitability, and elevate customer satisfaction. Passionate about continuous improvement and data-driven strategy, I thrive in environments where innovation and results go hand in hand."
 hero:
   links:
 about:
   title: "About Me"
   description: |
-    Results-driven Software Engineer with 10+ years of experience in web development, specializing in Magento and PHP. Proven ability to deliver high-quality eCommerce solutions, optimize workflows, and lead development projects.
-    Skilled in ERP integrations, API development, and full-stack architecture. Committed to continuous learning and staying current with industry trends. Excited to contribute expertise to a dynamic engineering team.
+    Results-driven Industrial Engineer with 10+ years of experience leading complex projects and optimizing operations across manufacturing, logistics, and financial consulting. Proven ability to implement Agile and Lean methodologies (Scrum, JIT, 5S) to increase efficiency, profitability, and customer satisfaction. Skilled in Business Intelligence, ERP systems (SAP), KPI reporting, and digital project management, with a strong track record of improving workflows and leading cross-functional teams.
+    Committed to continuous improvement and excellence in project execution, and eager to drive impact within forward-thinking organizations.
 experience:
   title: Work Experience
   items:
@@ -62,26 +62,22 @@ experience:
         name: "The Coca-Cola Company"
         url: "https://www.coca-colacompany.com"
         color: "#E61C2B"
-testimonials:
-  - quote: "I had the pleasure of working with Carlos at Intuitive Reason and highly recommend him for any Full Stack or Magento development role. He's an exceptionally skilled and reliable developer who thrives in fast-paced, high-demand environments. After more than twenty-five years collaborating with developers, I can confidently say Carlos stands out among one of the best and is someone I would gladly work with again."
-    author:
-      name: 'Damon Lutton'
-      description: 'Full-Stack Product Designer | UX/UI & Front-End Developer'
-      to: 'https://www.linkedin.com/in/damonray'
-      target: '_blank'
-      avatar:
-        src: 'https://media.licdn.com/dms/image/v2/D4D35AQGgggHVY337NQ/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1629222048130?e=1764522000&v=beta&t=UMOZ75GBFv1kR236beMNOCufEp82gx9xuakm2CbqFzA'
+# testimonials:
+#   - quote: "I had the pleasure of working with Carlos at Intuitive Reason and highly recommend him for any Full Stack or Magento development role. He's an exceptionally skilled and reliable developer who thrives in fast-paced, high-demand environments. After more than twenty-five years collaborating with developers, I can confidently say Carlos stands out among one of the best and is someone I would gladly work with again."
+#     author:
+#       name: 'Damon Lutton'
+#       description: 'Full-Stack Product Designer | UX/UI & Front-End Developer'
+#       to: 'https://www.linkedin.com/in/damonray'
+#       target: '_blank'
+#       avatar:
+#         src: 'https://media.licdn.com/dms/image/v2/D4D35AQGgggHVY337NQ/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1629222048130?e=1764522000&v=beta&t=UMOZ75GBFv1kR236beMNOCufEp82gx9xuakm2CbqFzA'
 certifications:
-  title: 'Courses and Certifications'
+  title: 'Certifications'
   items:
-    - title: 'Adobe Certified Professional - Adobe Commerce Developer'
-      url: 'https://certification.adobe.com/credential/verify/f506e20a-2070-4284-aa80-ef71bc27fbac'
-      img: '/certifications/f506e20a-2070-4284-aa80-ef71bc27fbac_badge.png'
-      description: 'Earners of this credential are Adobe Commerce Developers and have the skills and knowledge of Magento 2 in the areas of UI modifications, database changes, admin modifications, customizations, catalog and checkout structure, and functionality changes.'
-    - title: 'Vue 360'
-      url: 'https://programwitherik.teachable.com'
-      img: '/certifications/vue360.png'
-      description: 'Upon completing Vue 360 by Erik Hanchett, the student will be capable of building production-ready single page applications using Vue.js. They will understand Vue’s core principles such as reactive data, component architecture, directives, and state management, and know how to organize and scale real projects. Through hands-on examples, they will gain confidence in creating dynamic and maintainable user interfaces, preparing them to contribute effectively to modern frontend or full stack development environments where Vue is used.'
+    - title: 'Certified Scrum Master (CSM-300)'
+      url: 'https://www.scrumalliance.org/members/1616438'
+      img: '/certifications/sa-csm-300.png'
+      description: "A professional certified in CSM 300 by Scrum Alliance has demonstrated mastery of advanced Scrum practices, leadership, and real-world application. They are capable of guiding teams through complex product delivery cycles, scaling Scrum across departments, and optimizing team performance using data-driven metrics. Their knowledge extends beyond basic Scrum events and artifacts into coaching techniques, conflict resolution, stakeholder management, and improving value delivery. This makes them not only a Scrum practitioner, but also a strategic facilitator capable of raising organizational agility. Additionally, a CSM 300-level professional can mentor other Scrum Masters, foster a culture of continuous improvement, and align Scrum processes with broader business goals. They can design and refine frameworks for multi-team collaboration, integrate modern agile practices such as Lean thinking or Kanban, and create sustainable systems that allow teams to self-organize. Their expertise enables them to influence at the organizational level—helping leadership understand agility, measuring outcomes, and adjusting processes to maximize customer value."
 blog:
   title: "Latest Articles"
   description: "Some of my recent thoughts"
